@@ -11,7 +11,8 @@ var express = require('express');
 var bot = linebot({
     channelId: '1655448675',
     channelSecret: '94433e2199a2be4703ad4c97524e8ac5',
-    channelAccessToken: '41oUiYEYoNJYkSu0XKq9ME8bpN21PuOl9UbFaPdT1r8kZfspDxGaP7CasH0AnHZ4Dnzd3pPT8RMmLMBHOrAmPBDdC8fUsZsnqpaPcoNz/5QVDewaowlBMAEJxzTEHbKa5SdnjR9d0norPx03yqJuvgdB04t89/1O/w1cDnyilFU='
+    channelAccessToken:
+    '41oUiYEYoNJYkSu0XKq9ME8bpN21PuOl9UbFaPdT1r8kZfspDxGaP7CasH0AnHZ4Dnzd3pPT8RMmLMBHOrAmPBDdC8fUsZsnqpaPcoNz/5QVDewaowlBMAEJxzTEHbKa5SdnjR9d0norPx03yqJuvgdB04t89/1O/w1cDnyilFU='
 });
 
 
